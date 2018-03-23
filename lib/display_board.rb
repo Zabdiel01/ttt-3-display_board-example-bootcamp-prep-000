@@ -2,6 +2,6 @@
 
 def display_board
   
-puts "   |   |   \n-----------\n   |   |  \n-----------\n   |   |   \n"
+print "   |   |   \n-----------\n   |   |  \n-----------\n   |   |   \n"
            
 end
